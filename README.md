@@ -2,6 +2,8 @@
 
 A Markdown editor that lives in a single HTML file. Open `index.html` in a browser and start writing. There is no build step, no server, and no network access required.
 
+**Try it live:** https://baldrin.github.io/markdown-editor/
+
 ## Features
 
 - **Live preview** with GitHub-flavored Markdown: tables, task lists, strikethrough, fenced code blocks.
@@ -31,7 +33,7 @@ On Windows and Linux, use Ctrl in place of ⌘.
 
 ## Usage
 
-Download `index.html` and open it in any modern browser. Everything the editor needs is bundled inside the file, so it also works offline and from a USB stick.
+Use the [hosted version](https://baldrin.github.io/markdown-editor/), or download `index.html` and open it in any modern browser. Everything the editor needs is bundled inside the file, so it also works offline and from a USB stick.
 
 Writing back to an opened file uses the File System Access API, which is currently available in Chromium-based browsers. Elsewhere, Save downloads the file instead.
 

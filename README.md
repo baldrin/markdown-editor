@@ -4,6 +4,8 @@ A Markdown editor that lives in a single HTML file. Open `index.html` in a brows
 
 **Try it live:** https://baldrin.github.io/markdown-editor/
 
+![Markdown Editor in split view with live preview and table of contents](docs/screenshot.jpg)
+
 ## Features
 
 - **Live preview** with GitHub-flavored Markdown: tables, task lists, strikethrough, fenced code blocks.
